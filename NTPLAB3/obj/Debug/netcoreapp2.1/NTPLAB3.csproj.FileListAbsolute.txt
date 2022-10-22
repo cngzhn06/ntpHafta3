@@ -1,0 +1,11 @@
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\obj\Debug\netcoreapp2.1\NTPLAB3.csprojAssemblyReference.cache
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\obj\Debug\netcoreapp2.1\NTPLAB3.csproj.CoreCompileInputs.cache
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\obj\Debug\netcoreapp2.1\NTPLAB3.AssemblyInfoInputs.cache
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\obj\Debug\netcoreapp2.1\NTPLAB3.AssemblyInfo.cs
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\bin\Debug\netcoreapp2.1\NTPLAB3.deps.json
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\bin\Debug\netcoreapp2.1\NTPLAB3.runtimeconfig.json
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\bin\Debug\netcoreapp2.1\NTPLAB3.runtimeconfig.dev.json
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\bin\Debug\netcoreapp2.1\NTPLAB3.dll
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\bin\Debug\netcoreapp2.1\NTPLAB3.pdb
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\obj\Debug\netcoreapp2.1\NTPLAB3.dll
+C:\Users\Cengizhan Ç\source\repos\NTPLAB3\NTPLAB3\obj\Debug\netcoreapp2.1\NTPLAB3.pdb
